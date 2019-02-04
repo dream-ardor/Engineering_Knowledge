@@ -12,3 +12,9 @@ With a special focus on supporting customer-focused apps, it enables simple appl
 I had already heard of Heroku well before actually trying it. As a web developer with an eye towards the best and fastest technology, I'm always researching and looking for new and innovative tools to add to my repertoire. Part of that is of course looking at the best resources for deploying and hosting my websites and web applications. I had used Github Pages and Netlify before using Heroku and found it to be unique with its own pros and cons.
 
 For hosting static web sites and small projects, Github Pages and Netlify are great. But Heroku has more functional backend support for your web apps, whereas Netlify and Github pages are more geared towards front-end web development. I hosted my first Ruby on Rails project on Heroku and found it to be a fairly easy process.
+
+On the con side, loading times of your web projects can be slow due to the fact that Heroku places your free apps on hibernation to save on overall server load. It doesn't create the best experience and sometimes a simple app can take seemingly forever to load.
+
+Feel free to browse the Heroku site and see if it fits your needs.
+
+[Heroku website](https://www.heroku.com/)
