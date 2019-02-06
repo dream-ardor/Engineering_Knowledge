@@ -1,6 +1,5 @@
 #What is Docker?
 
-![Docker](https://github.com/dream-ardor/Engineering_Knowledge/blob/master/screenshots/docker%20logo.png)
 
 Docker is a containerization platform that packages software applications, including libraries and other dependencies, and runs them in a virtual environment in an efficient manner. The rise of containerization and further implementation of containers is one of the key improvements we've seen in the world of software development.
 
