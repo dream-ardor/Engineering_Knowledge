@@ -1,7 +1,6 @@
 # Node.js
 
-Node.js is an asynchronous JavaScript based run-time environment that allows you to build a wide variety of web applications and web servers.
-
+Node.js is an asynchronous JavaScript based run-time environment that allows you to build a wide variety of web applications and web servers. Node is designed to build scalable network applications with its event driven, non-blocking I/O model that makes it lightweight and efficient.
 
 
 My Thoughts on Node.js
